@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=4iw8XLusQ7s : tudo sobre character design
+https://youtu.be/Uigc8ofhDuo?si=645ps4rBi6scHB4u : formatos
+https://youtu.be/r-MXbGX1IxI?si=I1X-sFdIDzzOWt3A
+https://youtu.be/etoYp-NpeDY?si=u7eD1b2qbUlY8S8T
+https://youtu.be/FzQ27F3HmmM?si=TYb0Kq43KMo81bX0
+https://www.youtube.com/watch?v=fwwgIjL_Pew : criando um personagem estilizado
+https://youtu.be/lGL878oEh9k?si=jzk8v64M0Z24cAHX : técnicas para desenhar silhuetas
+https://youtu.be/gI62rHNtg2w?si=lHVeBfZ6IqZt4Kgz : criando um personagem realista
+https://youtu.be/ftsgy3TSImg?si=1CGBHYuAYVbtKcwP : aplicando a importância de formatos
+https://youtu.be/bKgi6WcXtCY?si=0jvID6QGdkLyY-sv : forma simples de escolher cores para luz & sombra
+https://youtu.be/opS3Xcglhrg?si=c0z3tTftKPzh5qQC : como animações e sprites ajudam ou atrapalham o player a interagir com as mecânicas do jogo
+https://youtu.be/8GtnM5z6jM8?si=lwhyaAWfBe2li926 : como esconder a falta de habilidade fazendo menos, com foco na audiência do jogo.
+https://youtu.be/akVAWghc_KE?si=-jPdFyjG_fPM_Hc7 : teoria das cores
+https://youtu.be/4SVnBumBGqI?si=FuyO4panMCGcFn5K : como escolher cores para uma cena
