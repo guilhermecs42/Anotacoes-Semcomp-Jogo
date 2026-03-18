@@ -1,13 +1,16 @@
 Para decidir o **estilo** do jogo, precisamos escolher os seguintes aspectos:
- - cor
+ - cor/contraste
  - complexidade
  - lineart
  - cenário
  - texturas
  - pixelart vs HD
+ - brushes
  - tipo de animação
- - disposição e quantidade dos assets na cena
+ - composição
  - silhuetas
+ - anatomia/proporções
+ - perspectiva (3, 2, 1 pontos)
  - iluminação
 
 Para escolher a vibe do jogo, ou a vibe de uma cena específica, faremos moodboards com o site Canva. Vamos discutir no canal da arte sobre jogos de referência, imagens que servem de inspiração, etc.
@@ -25,3 +28,5 @@ Uma tela pode ter vários assets. A tela de menu não precisa ser um asset só, 
 Um processo muito importante é o de integração. Garantir que o asset e o código funcionam juntos para maximizar imersão, beleza e jogabilidade.
 
 Arte da UI pronta antes da implementação.
+
+Alguns assets devem ficar cinza, e deixar a engine trocar a cor de acordo com a cena.

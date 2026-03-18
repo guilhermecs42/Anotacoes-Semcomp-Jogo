@@ -40,7 +40,7 @@ Da 12ª reunião até a 15ª reunião, de 04/08 até 25/08, eles criaram conceit
 Na 16ª reunião, 04/09, eles tomaram algumas decisões de estilo (tarde!), iniciaram o conceito da tela de menu, de crédito e de ranking, e integraram assets feitos.
 
 Na 17ª reunião, 11/09, eles aprimoraram os conceitos de tela de menu e background, terminaram assets da tela de ranking e game over, fizeram animações, implementaram mecânicas e integraram os assets já finalizados. 
-### Versão inicial
+### Demo
 
 Na 17ª reunião, 18/09, eles tinham quase toda a música pronta, UI implementada, lançado uma versão no itch.io.
 
@@ -64,7 +64,7 @@ Em 9 de junho eles pensaram em tudo que precisava ser programado:
 
 ![[Backlog Programação Semcomp26.pdf]]
 
-Eles lançaram uma **versão inicial** dia 18/09 para testes e feedback. Em 21 de setembro eles tinham o jogo parcialmente pronto: 
+Eles lançaram uma **demo** dia 18/09 para testes e feedback. Em 21 de setembro eles tinham o jogo parcialmente pronto: 
 
 ![[Repasses Semcomp2026.pdf]]
 
