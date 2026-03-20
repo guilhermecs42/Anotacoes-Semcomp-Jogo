@@ -76,4 +76,4 @@ O jogo deles tinha um botão para relatar bugs
 
 ## Gestão da Arte
 
-Em 16 de junho eles tinham um conceito de como seriam as plal
+Em 16 de junho eles tinham um conceito de como seriam as plataformas
