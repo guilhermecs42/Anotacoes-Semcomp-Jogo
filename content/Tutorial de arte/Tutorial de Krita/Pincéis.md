@@ -45,6 +45,8 @@ Pode ser de 3 jeitos: automática, predefinida, ou texto. Vamos falar dos parâm
 - Espaço: distância entre pinceladas individuais em um traço.
 - Precisão: qualidade do rendering. Quanto maior, mais lento.
 
+[^1]: Não percebi muita diferença entre desvanescer Horizontal e Vertical
+
 Ao mesmo tempo que alteram-se esses parâmetros, a pré-visualização *ao vivo* do traço (canto superior esquerdo) altera-se também. À esquerda desses parâmetros, temos uma pré-visualização da pincelada. Abaixo, podemos selecionar o tipo de máscara, que diz respeito à opacidade da pincelada em função da distância ao centro dela. O tipo "Suave", por exemplo, permite definir uma curva de opacidade qualquer. Abaixo, podemos alternar o formato da máscara entre quadrado e círculo. Na prática, diminuindo o fator e alterando o número de pontas, podemos gerar muito mais formatos do que apenas quadrados e círculos. Exemplo:
 
 ![[pincelada-maluca.png]]

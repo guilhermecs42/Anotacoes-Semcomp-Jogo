@@ -9,3 +9,4 @@ Esse tutorial segue a nomenclatura do Krita em português brasileiro. A linguage
 [[Ferramentas | Ferramentas]]
 [[Pincéis | Pincéis]]
 [[Camadas| Camadas & Modos de mistura & Filtros]]
+[[Atalhos | Atalhos]]
